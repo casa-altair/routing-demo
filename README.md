@@ -5,3 +5,4 @@
 | 4 | Created Component product-list |
 | 5 | Created Component contact |
 | 6 | Created Component login |
+| 7 | Created Component register |
