@@ -8,7 +8,7 @@
 | 7 | Created Component register |
 | 8 | Created Component navigation |
 | 9 | Added bootstrap module |
-
+| 10 | Added bootstrap module to angular.json for accesing it thorughout code |
 
 
 
