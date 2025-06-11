@@ -10,6 +10,8 @@
 | 9 | Added bootstrap module |
 | 10 | Added bootstrap module to angular.json for accesing it thorughout code |
 | 11 | Created Nav bar and tagged it to app.component.html |
+| 12 | Updated app-rount.modules.ts to add the navlinks/URL |
+| 13 | Updated app-rount.modules.ts to add the Error page |
 
 
 
