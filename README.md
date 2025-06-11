@@ -9,6 +9,7 @@
 | 8 | Created Component navigation |
 | 9 | Added bootstrap module |
 | 10 | Added bootstrap module to angular.json for accesing it thorughout code |
+| 11 | Created Nav bar and tagged it to app.component.html |
 
 
 
