@@ -10,13 +10,15 @@ import { NotFoundComponent } from './components/not-found/not-found.component';
 
 const routes: Routes = [
   // Write the paths
+  { path: '', redirectTo: 'home', pathMatch: 'full'},
+  
   { path: 'home', component: HomeComponent},
   { path: 'about', component: AboutComponent},
   { path: 'contact', component: ContactComponent},
   { path: 'products', component: ProductListComponent},
   { path: 'login', component: LoginComponent},
   { path: 'register', component: RegisterComponent},
-  { path: '', redirectTo: 'home', pathMatch: 'full'},
+  
   { path: '**', component: NotFoundComponent}  // Error Page 404
 
 ];
