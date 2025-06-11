@@ -6,3 +6,4 @@
 | 5 | Created Component contact |
 | 6 | Created Component login |
 | 7 | Created Component register |
+| 8 | Created Component navigation |
