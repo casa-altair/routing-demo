@@ -7,3 +7,21 @@
 | 6 | Created Component login |
 | 7 | Created Component register |
 | 8 | Created Component navigation |
+| 9 | Added bootstrap module |
+
+
+
+
+
+
+
+
+
+
+
+
+
+ng new routing-demo --no-standalone //
+ng s -o
+Create Components: ng g c components/<module_name>
+Install Bootstrap: npm install bootstrap
