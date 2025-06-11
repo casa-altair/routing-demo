@@ -12,6 +12,7 @@
 | 11 | Created Nav bar and tagged it to app.component.html |
 | 12 | Updated app-rount.modules.ts to add the navlinks/URL |
 | 13 | Updated app-rount.modules.ts to add the Error page |
+| 14 | Updated app-rount.modules.ts to parent path |
 
 
 

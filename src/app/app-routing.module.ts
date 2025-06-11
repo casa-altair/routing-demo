@@ -16,6 +16,7 @@ const routes: Routes = [
   { path: 'products', component: ProductListComponent},
   { path: 'login', component: LoginComponent},
   { path: 'register', component: RegisterComponent},
+  { path: '', redirectTo: 'home', pathMatch: 'full'},
   { path: '**', component: NotFoundComponent}  // Error Page 404
 
 ];
