@@ -13,6 +13,7 @@
 | 12 | Updated app-rount.modules.ts to add the navlinks/URL |
 | 13 | Updated app-rount.modules.ts to add the Error page |
 | 14 | Updated app-rount.modules.ts to parent path |
+| 15 | app.component.html router-outlet |
 
 
 
