@@ -15,6 +15,7 @@
 | 14 | Updated app-rount.modules.ts to parent path |
 | 15 | app.component.html router-outlet |
 | 16 | Instead of href, use routerLink |
+| 17 | Created auth service |
 
 
 
@@ -30,3 +31,4 @@ ng new routing-demo --no-standalone //
 ng s -o
 Create Components: ng g c components/<module_name>
 Install Bootstrap: npm install bootstrap
+Create service like login: ng g s services/auth
